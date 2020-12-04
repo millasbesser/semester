@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
 }
-
+body{
+    background-color: #FDFCFC;
+}
 #Nav{
     background: #47657C;
     display: block;
@@ -44,18 +46,7 @@ img{
     margin-top: 20px;
     text-align: center;
 }
-.btn1{
-    margin-top: 50px;
-    width: 350px;
-    height: 55px;
-    border-radius: 20px;
-    margin-left: 15px;
-    background-color: #47657C;
-    color: aliceblue;
-    font-size: 20px;
-}
-
-.btn2{
+button{
     margin-top: 20px;
     width: 350px;
     height: 55px;
@@ -66,39 +57,10 @@ img{
     font-size: 20px;
 }
 
-.btn3{
-    margin-top: 20px;
-    width: 350px;
-    height: 55px;
-    border-radius: 20px;
-    margin-left: 15px;
-    background-color: #47657C;
+a{
+    text-decoration: none;
     color: aliceblue;
-    font-size: 20px;
 }
-
-.btn4{
-    margin-top: 20px;
-    width: 350px;
-    height: 55px;
-    border-radius: 20px;
-    margin-left: 15px;
-    background-color: #47657C;
-    color: aliceblue;
-    font-size: 20px;
-}
-
-.btn5{
-    margin-top: 20px;
-    width: 350px;
-    height: 55px;
-    border-radius: 20px;
-    margin-left: 15px;
-    background-color: #47657C;
-    color: aliceblue;
-    font-size: 20px;
-}
-
 .second{
     font-size: 25px;
     margin-top: 20px;
