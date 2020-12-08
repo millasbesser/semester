@@ -28,7 +28,7 @@ li{
     float: left;
 }
 .ABOUT{
-    margin-left: 150px;
+    margin-left: 100px;
 }
 
 .CONTACT{
@@ -108,6 +108,8 @@ p{
     margin-top: 1em;
     font-size: 20px;
     margin-bottom: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 5px;
 }
 
 /*about*/
